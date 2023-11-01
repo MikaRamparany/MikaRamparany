@@ -1,8 +1,10 @@
+![ninkaalva_abstract_painting_art_16_colourful_wallpapers_in_the__710bc8ea-ba8a-4699-8234-13f4ffe8e854](https://github.com/MikaRamparany/MikaRamparany/assets/110556435/5d7085c0-4cfb-42b1-b4a7-8286cc754676)
 
 <!-- mon text de bienvenu -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bungee+Spice&size=21&duration=4200&pause=2700&color=F70000&center=true&vCenter=true&multiline=true&random=false&width=1050&height=256&lines=Welcome+to+my+GitHub+profile+;I'm+a+young+full-stack+magician+!;I've+discovered+a+wild+passion+for+coding%2C+;and+web-development+is+my+playground;But%2C+my+heart+leans+a+bit+more+toward+the+front-end+side;I'm+on+an+epic+quest+for+tech+treasures+and+endless+innovation)](https://git.io/typing-svg)
 
 <!-- contact's icones-->
+
 
 <!-- Social icons section 
 <p align="center">
