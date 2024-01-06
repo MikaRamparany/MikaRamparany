@@ -63,7 +63,7 @@
 
 
 -----
-[![](https://visitcount.itsvg.in/api?id=MikaRamparany&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=MikaRamparany&label=Profile%20Views&color=0&icon=3&pretty=true)](https://visitcount.itsvg.in)
 
 -----
 ![](https://github.com/MikaRamparany/MikaRamparany/blob/output/github-contribution-grid-snake.svg)
