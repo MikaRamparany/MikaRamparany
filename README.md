@@ -64,6 +64,7 @@
 
 -----
 [![](https://visitcount.itsvg.in/api?id=MikaRamparany&label=Profile%20Views&color=0&icon=3&pretty=true)](https://visitcount.itsvg.in)
+<a href="https://visits.dashroshan.com"><img src="https://visits.dashroshan.com/8M7VMPOVfRIDxDdahWbW?label=Visits&shadow=1&shadowOpacity=28&swap=1&labelBGColor=484848&countBGColor=2574ea&labelTextColor=FFFFFF&countTextColor=FFFFFF" alt="Visits Counter Badge" height=30px/></a>
 
 -----
 ![](https://github.com/MikaRamparany/MikaRamparany/blob/output/github-contribution-grid-snake.svg)
