@@ -43,13 +43,13 @@
 <p align="center">
   <img
     alt="MikaRamparany's GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=MikaRamparany&show_icons=true&include_all_commits=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"
+    src="./profile/stats.svg"
     height="192px"
   />
   <br/>
   <img
     alt="MikaRamparany's Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaRamparany&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff"
+    src="./profile/top-langs.svg"
     height="192px"
   />
 </p>
@@ -70,4 +70,8 @@
 
 ## 🐍 Contributions Snake
 
-![](https://github.com/MikaRamparany/MikaRamparany/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg" />
+  <img alt="github-snake" src="./dist/github-snake.svg" />
+</picture>
