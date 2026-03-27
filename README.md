@@ -1,70 +1,73 @@
 ![ninkaalva_abstract_painting_art_16_colourful_wallpapers_in_the__710bc8ea-ba8a-4699-8234-13f4ffe8e854](https://github.com/MikaRamparany/MikaRamparany/assets/110556435/5d7085c0-4cfb-42b1-b4a7-8286cc754676)
 
-<!-- mon text de bienvenu -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bungee+Spice&size=21&duration=4200&pause=2700&color=F70000&center=true&vCenter=true&multiline=true&random=false&width=1050&height=256&lines=Welcome+to+my+GitHub+profile+;I'm+a+young+full-stack+magician+!;I've+discovered+a+wild+passion+for+coding%2C+;and+web-development+is+my+playground;But%2C+my+heart+leans+a+bit+more+toward+the+front-end+side;I'm+on+an+epic+quest+for+tech+treasures+and+endless+innovation)](https://git.io/typing-svg)
+<!-- Welcome text -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bungee+Spice&size=21&duration=4200&pause=2700&color=F70000&center=true&vCenter=true&multiline=true&random=false&width=1050&height=256&lines=Welcome+to+my+GitHub+profile;I'm+a+young+full-stack+magician!;I've+discovered+a+wild+passion+for+coding;and+web-development+is+my+playground;But+my+heart+leans+a+bit+more+toward+the+front-end+side;I'm+on+an+epic+quest+for+tech+treasures+and+endless+innovation)](https://git.io/typing-svg)
 
-<!-- contact's icones-->
-
-
-<!-- Social icons section 
+<!-- Contact icons -->
+<!--
 <p align="center">
- 
-  <a href="mika.ramparany@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://i.imgur.com/kKN1KkY.png"/></a>
+  <a href="mailto:mika.ramparany@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://i.imgur.com/kKN1KkY.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mika.ramparany@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://i.imgur.com/sIwfUci.png"/></a>
+  <a href="mailto:mika.ramparany@gmail.com"><img width="32px" alt="Mail" title="Mail" src="https://i.imgur.com/sIwfUci.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-<a href="mika.ramparany@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://i.imgur.com/sIwfUci.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  
-  
-</p> -->
+  <a href="mailto:mika.ramparany@gmail.com"><img width="32px" alt="Mail" title="Mail" src="https://i.imgur.com/sIwfUci.png"/></a>
+</p>
+-->
 
-  🌱 I’m currently learning and experimenting on : 
-<!-- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) -->
+🌱 I’m currently learning and experimenting on:
 
-<!--   my-skils -->
+<!--
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
+-->
 
-| Property                                        | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Languages**                              | ![HTML BADGE](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS Badge](	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| **CI / CD**                                     | [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/BEPb/BEPb) [![Github Badge](https://img.shields.io/badge/-Github%20-2088FF?style=flat&logo=Github&logoColor=white)](https://github.com/BEPb/BEPb) [![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)](https://github.com/BEPb/BEPb)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| **Databases**                                   | ![Postgre Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| **OS**                                          | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)                                                                                                                                                                                                                                                             |
-| **Tools & Platform**                            | ![Vscode Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  ![Netlify badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)  	![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| **Frameworks and libraries** | ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  |
+## 🛠️ Tech Stack
 
- 💭 My motto ? **To infinity and beyond!👨🏼‍🚀**
+| Property | Data |
+|---|---|
+| **Languages** | ![HTML BADGE](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) |
+| **CI / CD** | ![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=markdown&logoColor=white) ![Github Badge](https://img.shields.io/badge/-GitHub-2088FF?style=flat&logo=github&logoColor=white) ![Git Badge](https://img.shields.io/badge/-Git-2088FF?style=flat&logo=git&logoColor=white) |
+| **Databases** | ![Postgre Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **OS** | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) |
+| **Tools & Platform** | ![Vscode Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Netlify badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |
+| **Frameworks and libraries** | ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
 
- 
- 
-   
-</details>
- </details>
-<h2 align='center'><i>Github Stats & Languages Used</i></h2>
-</br>
+💭 My motto? **To infinity and beyond! 👨🏼‍🚀**
 
-<!-- statistics -->
+---
+
+<h2 align="center"><i>GitHub Stats & Languages Used</i></h2>
 
 <p align="center">
-    
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="MikaRamparany's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MikaRamparany&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-<br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="MikaRamparany's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MikaRamparany&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <img
+    alt="MikaRamparany's GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=MikaRamparany&show_icons=true&include_all_commits=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"
+    height="192px"
+  />
   <br/>
+  <img
+    alt="MikaRamparany's Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikaRamparany&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff"
+    height="192px"
+  />
 </p>
 
-</br>
+---
 
 ## ✍️ Random Dev Quote
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
+---
 
+## 👀 Profile Views
 
+![](https://komarev.com/ghpvc/?username=MikaRamparany&style=flat-square&color=blue)
 
------
-[![](https://visitcount.itsvg.in/api?id=MikaRamparany&label=Profile%20Views&color=0&icon=3&pretty=true)](https://visitcount.itsvg.in)
-<a href="https://visits.dashroshan.com"><img src="https://visits.dashroshan.com/8M7VMPOVfRIDxDdahWbW?label=Visits&shadow=1&shadowOpacity=28&swap=1&labelBGColor=484848&countBGColor=2574ea&labelTextColor=FFFFFF&countTextColor=FFFFFF" alt="Visits Counter Badge" height=30px/></a>
+---
 
------
+## 🐍 Contributions Snake
+
 ![](https://github.com/MikaRamparany/MikaRamparany/blob/output/github-contribution-grid-snake.svg)
