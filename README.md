@@ -14,7 +14,6 @@
 </p>
 -->
 
-
 🌱 I’m currently learning and experimenting on:
 
 <!--
@@ -39,7 +38,7 @@
 
 ---
 
-<h2 align="center"><i>GitHub Stats & Languages Used</i></h2>
+<h2 align="center"><i>GitHub Activity & Tech Snapshot</i></h2>
 
 <p align="center">
   <img
@@ -47,11 +46,26 @@
     src="./profile/stats.svg"
     height="192px"
   />
-  <br/>
+  <img
+    alt="MikaRamparany's GitHub Streak"
+    src="https://streak-stats.demolab.com?user=MikaRamparany&theme=react&hide_border=true"
+    height="192px"
+  />
+</p>
+
+<p align="center">
   <img
     alt="MikaRamparany's Top Languages"
     src="./profile/top-langs.svg"
     height="192px"
+  />
+</p>
+
+<p align="center">
+  <img
+    alt="MikaRamparany's GitHub Activity Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MikaRamparany&theme=react-dark&hide_border=true&area=true"
+    width="95%"
   />
 </p>
 
